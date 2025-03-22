@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 
 # Конфигурация
 API_KEY = "e4c998b8-3a31-4106-a0ec-579edca63eeb"
-TO_USER_ID = "702994138"
+TO_USER_ID = "7617992512"
 BOT_TOKEN = "7916151524:AAFFsrlAqDQJ4W8kCHW209YIALbSATttadE"
 
 # Границы Воронежа
